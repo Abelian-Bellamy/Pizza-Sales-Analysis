@@ -15,7 +15,7 @@ This project analyzes pizza sales data to answer four key business questions:
 
 ## 📈 Dashboard
 
-![Pizza Sales Dashboard](dashboard/Pizza_Sales_Dashboard.png)
+![Pizza Sales Dashboard](dashboard/Pizza Sales Dashboard.png)
 
 The dashboard brings together key performance indicators and visualizations covering revenue, orders, pizzas sold, ordering patterns, bestsellers, monthly revenue, and menu performance.
 
@@ -110,7 +110,7 @@ These are **data-informed opportunities rather than conclusions about causation*
 
 For the complete analysis and detailed findings:
 
-**[View the Full Project Documentation](Pizza_Sales_Analysis.pdf)**
+**[View the Full Project Documentation](Pizza_Sales_Analysis_Documentation.pdf)**
 
 ## 📌 Final Takeaway
 
